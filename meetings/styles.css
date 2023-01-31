@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  background-color: #283149;
+  background-image: url("images/WhatsApp\ Image\ 2022-11-11\ at\ 19.26.09.jpeg");
+  background-size: 100%;
+
+}
+h1 {
+  margin-top: 130px;
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Satisfy";
+  text-shadow: 3px 0 #DA0463;
+  margin-bottom: 20px;
+
+}
+h2{
+  margin-top: 0;
+  font-size: 2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url("images/heart.png");
+}
+
+.b {
+  background-image: url("images/heart.png");
+}
+
+.c {
+  background-image: url("images/heart.png");
+}
+
+.d {
+  background-image: url("images/heart.png");
+}
+
+.e {
+  background-image: url("images/heart.png");
+}
+
+.f {
+  background-image: url("images/heart.png");
+}
+
+.g {
+  background-image: url("images/heart.png");
+}
+.h {
+  background-image: url("images/heart.png");
+}
+.i{
+  background-image: url("images/heart.png");
+}
+.j{
+  background-image: url("images/heart.png");
+}
+.k{
+  background-image: url("images/heart.png");
+}
+.l{
+  background-image: url("images/heart.png");
+}
+.m{
+  background-image: url("images/heart.png");
+}
+.n{ 
+  background-image: url("images/heart.png");
+}
+.o{
+  background-image: url("images/heart.png");
+} 
+.p{
+  background-image: url("images/heart.png");
+}
+.set {
+  margin: 10% auto;
+  background-color:rgba(255,0,0,0.5);
+  height: 300px;
+  width: 1200px;
+  margin-top: 100px;
+
+  
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  background-image: url("images/pizza.png");
+}
+
+.burger {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  background-image: url("images/hamburger.png");
+}
+
+.petisco {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  background-image: url("images/petisco.png");
+}
+.mexican {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  background-image: url("images/nachos.png");
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  font-size: 0.5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: transparent;
+  border-radius: 20px;
+  display: inline-block;
+  width: 90px;
+  height: 90px;
+  text-align: center;
+  margin: 20px;
+  background-color: white;
+  background-size: 100%;
+
+}
+
